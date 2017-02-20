@@ -58,4 +58,6 @@ gem 'paperclip', '~> 5.1'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
-gem 'jquery-raty-rails', github: 'bmc/jquery-raty-rails' 
+gem 'jquery-raty-rails', github: 'bmc/jquery-raty-rails'
+
+gem 'searchkick', '~> 2.1', '>= 2.1.1'
